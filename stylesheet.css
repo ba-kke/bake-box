@@ -1,6 +1,5 @@
 *{
   box-sizing:border-box;
-  color:#ee7800;
 }
 
 .clear{
@@ -20,6 +19,6 @@ ul{
   float:left;
 }
 
-.header-right li{
+.header-list li{
   float:right;
 }
