@@ -1,0 +1,17 @@
+*{
+  box-sizing:border-box;
+}
+
+.crear{
+  clear: both;
+}
+
+.container{
+  width:95%;
+  margin:0 auto;
+}
+
+.header-logo{
+  float:left;
+
+}
